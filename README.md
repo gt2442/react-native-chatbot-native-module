@@ -22,14 +22,14 @@ The app features:
   - Sending user messages to a backend
   - Receiving replies
 - A dynamic **Lottie status Cat** at the top of the screen showing:
-  - Connecting  
+  - Connecting [![Alt text](./screenshots/Connected.png](./screenshots/Connected.png)
   - Connected  
   - Disconnected  
 - A **Lottie “catbot is thinking” animation** when waiting for server responses
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Frontend**
 - React Native (Android)
@@ -76,7 +76,7 @@ Challenge 1 — Socket communication errors
 Problem: Disconnections caused silent failures.
 Solution: Added connection status tracking + Lottie orb UI states.
 
-### Future Imptrovements
+### Future Improvements
 - Add user profiles
 
 - Add persistent chat history

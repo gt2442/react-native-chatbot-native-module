@@ -22,7 +22,7 @@ The app features:
   - Sending user messages to a backend
   - Receiving replies
 - A dynamic **Lottie status Cat** at the top of the screen showing:
-  - Connecting [![Alt text](./screenshots/Connected.png](./screenshots/Connected.png)
+  - Connecting [![Alt text](./Connected.png](./Connected.png)
   - Connected  
   - Disconnected  
 - A **Lottie “catbot is thinking” animation** when waiting for server responses
